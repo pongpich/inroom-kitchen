@@ -1,0 +1,69 @@
+.Show-title-and-qty-completed{
+    width: 100%;
+    height: 20vh;
+    background: #DBE8D8 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border: 1px solid #E5E5E5;
+    opacity: 1;
+    display: flex;
+    flex-direction:row;
+}
+
+.Icon-menu-completed{
+    width: 23%;
+}
+
+.Text-title-completed{
+    font-size: 40px;
+    color: #23A90F;
+    text-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    margin-top: 50px;
+}
+
+.Box-icon-completed{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    /* background-color: rebeccapurple; */
+}
+
+.Icon-menu-completed{
+    width: 110px;
+}
+
+.Box-text-title-completed{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    text-align: left;
+}
+
+.Box-title-completed-QTY{
+    /* margin: auto; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto; 
+    margin-right: 40px;
+}
+
+.Text-title-completed-QTY{
+    font-weight: bold;
+    color: #23A90F;
+    font-size:120px;
+    letter-spacing: 22.7px;  
+    text-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+
+td{
+    border-bottom: rgb(184, 184, 184) solid 1px;
+}
+
+thead{
+    background-color: #E5E5E5;
+    border-bottom: solid rgb(211, 211, 211) 3px;
+}
